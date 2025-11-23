@@ -26,10 +26,12 @@ The project is divided into two phases of development, consistent with the cours
 │                               # - Contains code for first submission on Kaggle
 │                               # - my "Bare minimum" baseline implementation
 │
-├── s5e11 ml class.ipynb        # PHASE 2: Final Project (Presentation Code)
+├── s5e11 v2.ipynb              # PHASE 2: Final Project (Presentation Code)
 │                               # - Extensive Model Comparison (SVM, PLA, RF, GB, etc.)
 │                               # - PCA & Dimensionality Reduction experiments
 │                               # - Final Visualizations & Evaluation
+│
+├── s5e11 v3.ipynb              # PHASE 3: More Experimentation (Beyond Class Scope)
 │
 ├── presentation.pdf            # Final presentation slides
 └── README.md                   # Project documentation
