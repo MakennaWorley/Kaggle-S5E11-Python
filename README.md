@@ -10,10 +10,10 @@ CMPT 311 Machine Learning (Fall 2025) - Final Project
 ---
 
 ## 1. Project Overview
-This repository contains the final capstone project for **CMPT 311 Machine Learning**. The objective was to compete in a Kaggle playground episode and build a complete machine learning pipeline to predict the probability that a borrower will pay back a loan (Binary Classification).
+This repository contains the final capstone project for **CMPT 311 Machine Learning**. The objective was to compete in a Kaggle playground episode and build a complete machine learning pipeline to predict the probability that a borrower will pay back a loan.
 
 **The Challenge:**
-Using a synthetic dataset generated from real-world loan data, the goal is to predict the target variable `loan_paid_back` (0 or 1).
+Using a synthetic dataset generated from real-world loan data, the goal is to predict the target variable `loan_paid_back`
 
 ## 2. Repository Structure & File Guide
 
@@ -30,8 +30,6 @@ The project is divided into two phases of development, consistent with the cours
 │                               # - Extensive Model Comparison (SVM, PLA, RF, GB, etc.)
 │                               # - PCA & Dimensionality Reduction experiments
 │                               # - Final Visualizations & Evaluation
-│
-├── s5e11 v3.ipynb              # PHASE 3: More Experimentation (Beyond Class Scope)
 │
 ├── presentation.pdf            # Final presentation slides
 └── README.md                   # Project documentation
